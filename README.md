@@ -1,5 +1,5 @@
 <p align="center"> 
- ✨<br>𝑭𝒓𝒐𝒎 𝒆𝒓𝒓𝒐𝒓 404 𝒕𝒐 200 𝑶𝑲 — 𝒕𝒉𝒂𝒕’𝒔 𝒉𝒐𝒘 𝒘𝒆 𝒈𝒓𝒐𝒘.<br>𝑲𝒆𝒆𝒑 𝒑𝒖𝒔𝒉𝒊𝒏𝒈, 𝒌𝒆𝒆𝒑 𝒄𝒐𝒎𝒎𝒊𝒕𝒕𝒊𝒏𝒈.<br>🧠💻
+ <br>𝑭𝒓𝒐𝒎 𝒆𝒓𝒓𝒐𝒓 404 𝒕𝒐 200 𝑶𝑲 — 𝒕𝒉𝒂𝒕’𝒔 𝒉𝒐𝒘 𝒘𝒆 𝒈𝒓𝒐𝒘. 𝑲𝒆𝒆𝒑 𝒑𝒖𝒔𝒉𝒊𝒏𝒈, 𝒌𝒆𝒆𝒑 𝒄𝒐𝒎𝒎𝒊𝒕𝒕𝒊𝒏𝒈.<br>💻
 </p>
 
 ---
@@ -23,7 +23,6 @@
 - 🧠 Learning: MERN Stack, Webhooks, Flask, MongoDB, Deployment
 - 💼 Skills: Python, Django, React, JavaScript, HTML/CSS, Git, MongoDB, REST APIs
 - 🔐 Interests: Full-stack development, backend engineering & cybersecurity
-- 🌐 Portfolio: [Visit Here](https://wamique-mashhadi-portfolio.vercel.app/)
 ````
 
 ---
@@ -73,4 +72,3 @@
 
 ---
 
-Let me know if you want the raw markdown file or want this auto-applied to your GitHub profile.
